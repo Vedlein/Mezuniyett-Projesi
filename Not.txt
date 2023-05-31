@@ -1,0 +1,15 @@
+Proje Konusu : Veri Kaynak Yönetim Programı
+
+* Programın proje hali 185mb olduğu için GitHub'a yükleyemedim ama eğer projesini görmek isterseniz WeTransfer ile yollayabilirim.
+
+* Karşınıza çıkan kullanıcı adı ve şifre kısmına "0" yazarak girmek istediğiniz yerlere girebilirsiniz.
+
+* Programda kullanılan bazı dosyaların boyutu fazla olduğundan dolayı GitHub a yükleyemedim.
+
+* SQL Server 2019 Kullanılmalıdır.
+
+* Kod içerisinde SQL bağlantısı için gerekli olan bağlantı otomatik olarak tanımlı. Fakat programın girişinde bu değiştirilebiliyor.
+
+* Programın "Exe hali" klasörü içindeki "Bin" dosyası bu konumda bulunmalı : C:\Program Files\VKP\Bin
+
+* Database dosyaları dizini : C:\Program Files\Microsoft SQL Server\MSSQL15.MSSQLSERVER\MSSQL\DATA\
